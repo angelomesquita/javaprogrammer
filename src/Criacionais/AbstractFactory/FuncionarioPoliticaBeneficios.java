@@ -1,3 +1,5 @@
+package Criacionais.AbstractFactory;
+
 public class FuncionarioPoliticaBeneficios implements PoliticaBeneficios{
     @Override
     public void provePoliticaDeBeneficios() {

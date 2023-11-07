@@ -1,3 +1,5 @@
+package Criacionais.AbstractFactory;
+
 public class GerenteForm implements Form {
     @Override
     public void fillForm() {

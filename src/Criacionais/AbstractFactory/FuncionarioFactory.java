@@ -1,4 +1,6 @@
-public class FuncionarioFactory extends AbstractFactory {
+package Criacionais.AbstractFactory;
+
+public class FuncionarioFactory implements AbstractFactory {
 
     @Override
     public Form gerarForm() {
